@@ -1,5 +1,5 @@
 '''
-Changes include Model3 and MixGCF para
+Changes include Ori LGN Model and MixGCF para
 '''
 import torch
 import torch.nn as nn
